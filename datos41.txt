@@ -1,0 +1,8 @@
+12345678A,maria,martinez,martin,1979-09-10,si,
+12345778B,fernando,gonzalez,gonzalo,1975-09-10,no,
+12347678C,javier,ruiz,raspa,1976-09-14,no,
+12375678D,gerardo,martinez,martin,1979-12-25,si,
+12745678E,marta,martinez,martin,1969-07-21,no,
+17345678F,almudena,martinez,martin,1979-08-16,no,
+72345678G,pablo,martinez,fernandez,1981-06-11,no,
+12345677H,maite,fernandez,martin,1986-04-10,si,
